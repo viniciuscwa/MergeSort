@@ -7,8 +7,10 @@ gcc -pthread main.c -o threads
 ```
 ## Como executar :
 ```
-./threads 4 arq1.txt arq2.txt arq3.txt arq4.txt arq5.txt
+./threads 4 arq1.txt arq2.txt arq3.txt arq4.txt arq5.txt > output.txt
 ```
+4 = numero de threads
+
 ## Codigo:
 - main.c
 
@@ -21,3 +23,6 @@ gcc -pthread main.c -o threads
 - arq3.txt
 - arq4.txt
 - arq5.txt
+
+## Output:
+- output.txt
