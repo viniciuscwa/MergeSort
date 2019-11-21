@@ -1,5 +1,5 @@
 # MergeSort
-Projeto de S.O com uso de Multithreading
+Projeto de S.O com uso de Multithreading e Merge Sort.
 
 ## Como compilar :
 ```
