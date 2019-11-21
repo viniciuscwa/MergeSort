@@ -1,5 +1,5 @@
 # MergeSort
-Projeto de S.O com uso de Multithreading e Merge Sort.
+Projeto de Sistemas Operacionais: Merge Sort using Multi-threading in C.
 
 ## Como compilar :
 ```
