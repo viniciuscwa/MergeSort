@@ -1,5 +1,5 @@
-# MergeSort
-Projeto de Sistemas Operacionais: Merge Sort using Multi-threading in C.
+# MergeSort 
+Projeto de Sistemas Operacionais: Merge Sort using Multi-threading in C. (**Vinicius Souza RA: 225336**)
 
 ## Como compilar :
 ```
