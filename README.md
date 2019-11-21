@@ -30,5 +30,3 @@ gcc -pthread main.c -o threads
 
 ## Output:
 - output.txt
-
-**Vinicius Souza RA: 225336**
