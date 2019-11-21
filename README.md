@@ -9,7 +9,7 @@ gcc -pthread main.c -o threads
 ```
 ./threads 4 arq1.txt arq2.txt arq3.txt arq4.txt arq5.txt > output.txt
 ```
-or
+**ou**
 ```
 ./threads 4 arq1.txt arq2.txt arq3.txt arq4.txt arq5.txt -fsanitize=address -fno-omit-frame-pointer > output.txt
 ```
